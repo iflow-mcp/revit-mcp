@@ -1,5 +1,5 @@
 [project]
-name = "revit-mcp"
+name = "iflow-mcp_revit-mcp"
 version = "0.5.11"
 description = "revit integration through the Model Context Protocol"
 readme = "README.md"

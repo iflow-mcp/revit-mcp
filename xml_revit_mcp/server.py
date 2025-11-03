@@ -125,7 +125,6 @@ async def server_lifespan(server: FastMCP) -> AsyncIterator[Dict[str, Any]]:
 # 创建带有生命周期支持的MCP服务器
 mcp = FastMCP(
     "RevitMCP",
-    description="通过模型上下文协议(MCP)集成Revit",
     lifespan=server_lifespan
 )
 

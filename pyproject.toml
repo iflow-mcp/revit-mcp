@@ -1,6 +1,6 @@
 [project]
 name = "iflow-mcp_revit-mcp"
-version = "0.5.11"
+version = "0.5.12"
 description = "revit integration through the Model Context Protocol"
 readme = "README.md"
 requires-python = ">=3.10"
